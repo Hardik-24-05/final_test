@@ -1,5 +1,5 @@
 def greet(name):
-    return "Hello, " + name
+    return "Hi there, " + name
 
 
 def total(a, b):
